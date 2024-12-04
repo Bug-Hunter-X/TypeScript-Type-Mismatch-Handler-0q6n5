@@ -1,0 +1,3 @@
+# TypeScript Type Mismatch Bug
+
+This repository demonstrates a common TypeScript error: type mismatch between function parameters and arguments. The `greeter` function expects a string argument but receives an array of strings, resulting in a compilation error.  The solution shows how to correctly handle the type mismatch.  This is a simple example, but the concept applies to more complex scenarios.
